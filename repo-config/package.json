@@ -41,7 +41,7 @@
     "jest-junit": "^10.0.0",
     "jscodeshift": "^0.11.0",
     "metro-transform-plugins": "^0.66.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.2",
     "prettier": "1.19.1",
     "react": "17.0.2",
     "react-shallow-renderer": "16.14.1",
